@@ -1,7 +1,6 @@
 [user]
-	name = David Celis
-	email = me@davidcel.is
-	signingkey = 2B0016D7
+	name = Dale Dale
+	email = dpalmerpdx@gmail.com
 [help]
 	autocorrect = 20
 [alias]
@@ -65,5 +64,8 @@
 	fullName = true
 [commit]
 	gpgsign = true
+	gpgsign = false
 [interactive]
 	diffFilter = diff-highlight
+[gpg]
+	program = gpg2
